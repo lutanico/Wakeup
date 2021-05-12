@@ -1,0 +1,11 @@
+Package: mypyscript
+Version: 0.01
+Architecture: all
+Maintainer: WebGuy<domagzine35@gmail.com>
+Installed-Size: 2
+Depends: python-appindicator, schedule, PyGObject
+Section: extras
+Priority: high
+Homepage: www.domagzine.com
+Description: Wakeup  is an notification app that reminder me "Luttampanga nIcholas " what to do and incorporate in the day so as  to enhance his life
+
